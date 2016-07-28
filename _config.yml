@@ -1,0 +1,14 @@
+layout_spectrum: 0.2490672
+typography_spectrum: 0.8577425
+color:
+  saturation: 0.5408998
+  lightness: 0.639459
+  brandStrength: 0.9669981
+  brandColors:
+    - '#FFEBD0'
+    - '#E6D5BE'
+    - '#BEAF9C'
+    - '#AFA291'
+    - '#F7DCBE'
+  rhythmicContrast: 0.00004197261
+name: ArianArmstrong
