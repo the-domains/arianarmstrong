@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8577425
 color:
   saturation: 1
   brandStrength: 0.9669981
@@ -22,5 +21,6 @@ color:
     - '#AFA291'
     - '#F7DCBE'
   rhythmicContrast: 0.6077425
-layout_spectrum: 0.2490672
+typography_spectrum: 0.8577425
+layout_spectrum: 0.71875
 name: ArianArmstrong
