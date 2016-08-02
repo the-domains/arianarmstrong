@@ -1,14 +1,26 @@
-layout_spectrum: 0.2490672
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8577425
 color:
-  saturation: 0.5408998
-  lightness: 0.639459
+  saturation: 1
   brandStrength: 0.9669981
+  lightness: 0.5027985
   brandColors:
     - '#FFEBD0'
     - '#E6D5BE'
     - '#BEAF9C'
     - '#AFA291'
     - '#F7DCBE'
-  rhythmicContrast: 0.00004197261
+  rhythmicContrast: 0.6077425
+layout_spectrum: 0.2490672
 name: ArianArmstrong
