@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.8577425
 color:
   saturation: 1
   brandStrength: 0
@@ -21,6 +22,5 @@ color:
     - '#F88885'
     - '#DC4749'
   rhythmicContrast: 0.6077425
-typography_spectrum: 0.8577425
-layout_spectrum: 0.71875
+layout_spectrum: 1
 name: ArianArmstrong
